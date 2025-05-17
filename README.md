@@ -13,13 +13,25 @@ Caso queira saber mais, aqui está o enunciado do projeto: https://neps.academy/
 ---
 
 ## 🧭 Sumário
- 
+- [Estrutura do Projeto](#-estrutura-do-projeto)  
 - [Instalação](#-instalação)  
 - [Como Usar](#-como-usar)  
 - [Contribuições](#-contribuições)  
 - [Licença](#-licença)  
 - [Contato](#-contato)  
 - [Demonstração](#-demonstração)  
+
+---
+
+## 📂 Estrutura do Projeto
+
+readme-profissional/
+├── README.md
+├── LICENSE
+├── Jogo_da_forca.py
+└── assets/
+    └── jogo_demo.png
+
 
 ---
 
