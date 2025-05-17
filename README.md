@@ -12,7 +12,7 @@ Este projeto foi criado como parte do desafio do Neps Academy para construir um 
 - [Contribuições](#contribuições)
 - [Licença](#licença)
 - [Contato](#contato)
-
+- [Demonstração](#demonstração)
 ## 💻 Instalação
 
 Não há necessidade de instalação, pois este projeto é apenas um exemplo de documentação.
@@ -29,6 +29,10 @@ Abra uma issue ou envie um pull request.
 ## 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## 🎮 Demonstração
+
+![Demonstração do Jogo](./assets/jogo_demo.png)
 
 ## 📬 Contato
 
